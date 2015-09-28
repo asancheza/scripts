@@ -1,4 +1,6 @@
-hell script to get personal information in CS160a class
+#!/bin/bash
+#
+# Shell script to get personal information in CS160a class
 #
 
 # Welcome message
